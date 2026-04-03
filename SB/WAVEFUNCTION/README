@@ -1,0 +1,1 @@
+Due to the heavy size of Wavefunction and Hamitonian file of supercell, one can obtain these information by running the compiled binary file  ./tbband.x
